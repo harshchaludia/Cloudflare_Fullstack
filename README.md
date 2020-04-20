@@ -23,7 +23,7 @@ Implemented a Cloudflare worker that randomly send users to one of two webpages.
 
 ## Project Details 
 
-[here] (https://fullstack.harshchaludia.workers.dev/).
+(https://fullstack.harshchaludia.workers.dev/)
 
 
 ## Implemented the Extra Credit Modules
